@@ -37,8 +37,8 @@
 
 Feel free to reach out or follow me on:
 
-- [LinkedIn](https://www.linkedin.com/in/pedroernestodev/)
-- [GitHub](https://github.com/PedroErnestoDev)
+- [LinkedIn](https://www.linkedin.com/in/pedro-ernesto-2781b2309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+-
 
 Se quiser, posso incluir uma seção de projetos em destaque ou uma breve biografia também. Deseja?
 
