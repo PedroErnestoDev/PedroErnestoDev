@@ -19,3 +19,4 @@ Desenvolvedor apaixonado por **tecnologia**, **design** e **inovação**. Sempre
 ### 📊 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroErnestoDev&layout=compact&theme=radical)
+<img src="https://raw.githubusercontent.com/PedroErnestoDev/PedroErnestoDev/output/snake.svg" alt="Snake animation" />
