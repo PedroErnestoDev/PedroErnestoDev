@@ -1,5 +1,3 @@
-Claro! Aqui está uma versão mais profissional, limpa e organizada do seu README.md:
-
 <h1 align="center">Pedro Henrique Ernesto De Souza</h1>
 <p align="center">💻 Fullstack Developer | Passionate about building web solutions</p>
 
