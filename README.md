@@ -1,28 +1,52 @@
-## Hi there 👋
+# 👋 Olá, eu sou Pedro Ernesto!
 
-<!--
-**PedroErnestoDev/PedroErnestoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor apaixonado por **tecnologia**, **design** e **inovação**. Sempre buscando aprender novas linguagens, frameworks e melhorar minhas habilidades em desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 💻 **Tecnologias que uso**: JavaScript, React, Node.js, Python, SQL, entre outras!
+- 🌱 Atualmente aprendendo sobre **AI/ML** e **Web3**.
+- 👯 Procurando colaborar em projetos de **open-source**.
+- 📫 Como me encontrar: [pedro.ernesto.dev@gmail.com](mailto:pedro.ernesto.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pedroernestodev) | [Twitter](https://twitter.com/PedroErnestoDev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="center">A passionate frontend developer from India</h3>
+## 🔧 Ferramentas & Tecnologias
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroernestodev&label=Profile%20views&color=0e75b6&style=flat" alt="pedroernestodev" /> </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📈 Estatísticas do GitHub
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🌟 Contribuições no GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroernestodev&show_icons=true&locale=en" alt="pedroernestodev" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroErnestoDev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroErnestoDev&layout=compact&theme=radical)
+
+## 📌 Projetos em Destaque
+
+### [Projeto 1](https://github.com/PedroErnestoDev/projeto1)
+Descrição do projeto 1. Um breve resumo do que ele faz e como ele é interessante ou inovador.
+
+### [Projeto 2](https://github.com/PedroErnestoDev/projeto2)
+Descrição do projeto 2. Aqui você pode falar sobre os desafios que enfrentou e como solucionou.
+
+### [Projeto 3](https://github.com/PedroErnestoDev/projeto3)
+Descrição do projeto 3. Destaque as principais funcionalidades e o impacto.
+
+## 🌟 Minhas conquistas
+
+- 🎉 Contribuições regulares em **projetos open-source**.
+- 🎓 Concluí cursos avançados de **Full-Stack Development**.
+- 🏆 Vencedor(a) de hackathons em **2024**.
+
+---
+
+"**Programar é mais sobre entender o problema do que encontrar a solução**."
+
+---
+
+📬 **Vamos conversar!**  
+Envie uma mensagem e vamos trocar ideias sobre tecnologia, inovação, ou qualquer outra coisa! 😄
