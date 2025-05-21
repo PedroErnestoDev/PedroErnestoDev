@@ -36,6 +36,22 @@ Descrição do projeto 2. Aqui você pode falar sobre os desafios que enfrentou 
 ### [Projeto 3](https://github.com/PedroErnestoDev/projeto3)
 Descrição do projeto 3. Destaque as principais funcionalidades e o impacto.
 
+---
+
+## 🐍 **Jogo da Cobrinha - Commits**
+
+Você já viu a cobrinha comer commits? 🐍
+
+Aqui está o **Jogo da Cobrinha** do meu GitHub, que vai crescendo com o número de commits feitos ao longo do tempo!
+
+![Snake animation](https://github.com/PedroErnestoDev/PedroErnestoDev/blob/output/github-contribution-grid-snake.svg)
+
+> **Dica**: Quanto mais contribuições você faz, mais a cobrinha cresce! 😉
+> 
+> A cobrinha é gerada automaticamente a partir do seu histórico de commits, então é uma forma divertida de acompanhar suas contribuições ao longo do tempo!
+
+---
+
 ## 🌟 Minhas conquistas
 
 - 🎉 Contribuições regulares em **projetos open-source**.
